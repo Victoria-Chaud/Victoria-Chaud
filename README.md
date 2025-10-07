@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Codado em:</h2>
+<h2 align="left">Codando em:</h2>
 
 ###
 
