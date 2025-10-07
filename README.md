@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2025.<br><br>📚 Atualmente aprendendo Python.<br><br>🎯 Objetivo: Crescer como desenvolvedora, participar de projetos que gerem impacto e seguir aprendendo todos os dias.<br><br>🎲 Curiosidade: Sou formada em Letras e descobri que gosto tanto de traduzir ideias quanto de traduzir lógica em código!</p>
+<p align="left">✨ Criando bugs desde 2025.<br><br>📚 Atualmente aprendendo Python.<br><br>🎯 Objetivo: Crescer como desenvolvedora, participar de projetos que gerem impacto e seguir aprendendo todos os dias.<br><br>🎲 Curiosidade: Sou formada em Letras Tradução Espanhol e descobri que gosto tanto de traduzir ideias quanto de traduzir lógica em código!</p>
 
 ###
 
